@@ -1,0 +1,51 @@
+
+*{
+    font-family: OpenSans-Bold,Arial,sans-serif;
+}
+
+.course{
+    margin-top: 75px;
+}
+
+.course__btn {
+    padding: 1rem;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 1rem;
+    border: 2px solid;
+    background: transparent;
+    border-radius: 1px;
+    transition: transform 200ms ease-in;
+    background-color: rgb(252, 3, 102);
+}
+
+.course__btn:hover{
+    transform: scale(1.02);
+    
+}
+
+
+.module{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.course__btn1 {
+    padding: 1rem;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 1rem;
+    border: 2px solid;
+    background: transparent;
+    border-radius: 1px;
+    transition: transform 200ms ease-in;
+    background-color: rgb(251, 188, 5);
+}
+
+.course h1{
+    font-size: 30px;
+}
