@@ -1,0 +1,53 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        },
+        
+        {
+            "title": "Adaptive Layout with CSS Grid",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        },
+        {
+            "title": "Interactions and Animations",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        },
+        {
+            "title": "SVG Animation",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1Q"
+        },
+        {
+            "title": "States and Events",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        },
+        {
+            "title": "Styled Components",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        },
+        {
+            "title": "Components and Props",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        }, 
+        {
+            "title": "Static Data with JSON",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        },
+        {
+            "title": "GraphQL with Contentful",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        },
+        {
+            "title": "Publish to Netlify",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        },
+        {
+            "title": "Payments with Stripe Checkout",
+            "image": "https://dl.dropboxusercontent.com/s/olah27p6xey1ekw/logo-react.png?raw=1"
+        } 
+    ]
+}
